@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc9eaa7c-20a0-4a77-b1fe-d6790e9b8892" alt="MAA Logo" width="1100"/>
+  <img src="https://github.com/user-attachments/assets/13df68a0-cd98-4ac4-8c0b-f0321cd3e88a" alt="Mathematical Association of America Logo" width="1100"/>
 </p>
 
----
-
-# Mathematics Competition Solutions
+# Mathematical Association of America (MAA) Solutions
 
 Welcome to the Mathematics Competition Solutions repository! This repository contains solutions to problems from various prestigious mathematics competitions, including the Putnam Competition and other relevant contests.
 
