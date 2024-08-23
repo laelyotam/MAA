@@ -1,4 +1,6 @@
-![usamo![MAA-logo-790px](https://github.com/user-attachments/assets/bc9eaa7c-20a0-4a77-b1fe-d6790e9b8892)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc9eaa7c-20a0-4a77-b1fe-d6790e9b8892" alt="MAA Logo" width="1100"/>
+</p>
 
 ---
 
